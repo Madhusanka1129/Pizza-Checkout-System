@@ -14,8 +14,6 @@
 2. Open in Visual Studio
 3. Build & run (F5)
 
-![Screenshot](Capture.PNG)
-
 ## Technologies
 - C# Windows Forms
 - .NET Framework
